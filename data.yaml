@@ -1,0 +1,7 @@
+path: "C:/Users/nqt00/OneDrive/Desktop/mushroomRealizer"
+train: "C:/Users/nqt00/Downloads/data/train"
+val: "C:/Users/nqt00/Downloads/data/valid"
+test: "C:/Users/nqt00/Downloads/data/test"
+
+nc: 22
+names: ['Mushroom', 'Agaricus bisporus (not poison)', 'Agaricus blazei Murill (not poison)', 'Agrocybe aegerita (not poison)', 'Armillaria mellea (poison - nếu ăn sống hoặc chưa nấu kỹ)', 'Auricularia auricula (not poison)', 'Boletus (not poison)', 'Cantharellus cibarius (not poison)', 'Clitocybe maxima (not poison - nhưng một số lo�\xa0i Clitocybe khác có thể độc)', 'Collybia albuminosa (not poison)', 'Coprinus comatus (not poison - nhưng có thể gây phản ứng với rượu nếu nhầm với Coprinus atramentarius)', 'Cordyceps militaris (not poison)', 'Dictyophora indusiate (poison - có thể gây ngộ độc nếu không bảo quản đúng cách)', 'Flammulina velutiper (not poison)', 'Hericium erinaceus (not poison)', 'Hypsizygus marmoreus (not poison)', 'Lentinus edodes (not poison)', 'Morchella esculenta (poison - nếu ăn sống, cần nấu ch�\xadn kỹ)', 'Pleurotus citrinopileatus (not poison)', 'Pleurotus cystidiosus (not poison)', 'Pleurotus eryngii (not poison)', 'Pleurotus ostreatus (not poison)']
